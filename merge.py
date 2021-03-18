@@ -1,3 +1,4 @@
+#  We have 2 sorted arrays and we need to merge those two arrays in a single array in a sorted manner
 def merge(list1,list2,len1,n):
     merge1=[]
     i=0
