@@ -1,3 +1,4 @@
+#Finding Multiple Missing Elements in an Array
 def missingelement(arr1, num): 
     b=[0]*((arr1[-1])+1)
     m=len(b)
