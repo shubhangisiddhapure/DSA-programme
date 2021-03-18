@@ -1,3 +1,5 @@
+#  Given an array of length n-1 having elements from 1 to n. One number is missing. Find that missing number.
+#    eg: n = 5,  arr = [2, 4, 1, 5], missing number = 3
 def getmissingnumber(list1):
     n = len(list1)
     totalofallnumber = (n+1)*(n + 2)/2
