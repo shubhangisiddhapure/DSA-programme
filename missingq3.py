@@ -1,3 +1,4 @@
+# We have 2 arrays, we have to print the numbers of the first array which are missing in the second array
 def missingnum(list1,list2,len1,n):
     s ={}
     for i in range(n): 
