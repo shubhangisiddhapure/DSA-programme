@@ -1,3 +1,4 @@
+#  Find maximum difference between two elements of an array such that smaller number appears before the larger number.
 def maxDiff(arr, n): 
     list1 = []
     for i in range (0, n-1): 
